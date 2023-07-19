@@ -7,6 +7,8 @@ main()
 	{
 		sum += i;
 		printf("sum = %d\n",sum);
+		printf("HELLO");
+		printf("HELLO GHOST");
 	}
 }
 
